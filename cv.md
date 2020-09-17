@@ -1,7 +1,7 @@
 
 # Ilya Step
 
-## Contact Information
+## Contact Information:
 **Phone:** +7910896345 ** 
 E-mail:** stepanov_i.s@mail.ru
 
