@@ -27,6 +27,6 @@ function mygcd(x,y){
 ## Education:
 2007 – 2012 Ivanovo State  Power University Electrical Engineer
 
-## Languages
+## Languages:
 English - B1
 Serbian - A1
