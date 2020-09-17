@@ -1,19 +1,19 @@
 rsschool-cv
 # Ilya Step
 
-#Contact Information
+Contact Information
 **Phone:** +7910896345 ** 
 E-mail:** stepanov_i.s@mail.ru
 
-#Summary :
+Summary :
 3  months ago my wife told me that  we are doing now is not interesting and we are not satisfied our work.She offered to me start  a learning in it world.So now i am here....
 
-#Skills
+Skills
 HTML5, CSS3
 JavaScript
 Git
 
-#Code Exapmles:
+Code Exapmles:
 function mygcd(x,y){
   if (y == 0) {
     return x;
@@ -23,9 +23,9 @@ function mygcd(x,y){
   }
 }
 
-#Education
+Education
 2007 – 2012 Ivanovo State  Power University Electrical Engineer
 
-#Languages
+Languages
 English - B1
 Serbian - A1
