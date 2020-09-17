@@ -6,7 +6,7 @@
 E-mail:** stepanov_i.s@mail.ru
 
 ## Summary :
-3  months ago my wife told me that  we are doing now is not interesting and we are not satisfied our work.She offered to me start  a learning in it world.So now i am here....
+3  months ago my wife told me that  we are doing now is not interesting and we are not satisfied our work.She offered to me start  a learning in it world.So now i am here...
 
 ## Skills :
 HTML5, CSS3
