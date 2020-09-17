@@ -24,7 +24,7 @@ function mygcd(x,y){
   }
 }
 ```
-## Education
+## Education:
 2007 – 2012 Ivanovo State  Power University Electrical Engineer
 
 ## Languages
