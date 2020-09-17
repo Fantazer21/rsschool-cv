@@ -14,6 +14,7 @@ JavaScript
 Git
 
 ## Code Exapmles:
+```
 function mygcd(x,y){
   if (y == 0) {
     return x;
@@ -22,7 +23,7 @@ function mygcd(x,y){
     return mygcd(y,remainder);
   }
 }
-
+```
 ## Education
 2007 – 2012 Ivanovo State  Power University Electrical Engineer
 
