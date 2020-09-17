@@ -1,4 +1,4 @@
-rsschool-cv
+
 # Ilya Step
 
 Contact Information
